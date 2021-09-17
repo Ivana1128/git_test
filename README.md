@@ -1,1 +1,1 @@
-This is Ivana's firswt git project!
+This is Ivana's first git project!
